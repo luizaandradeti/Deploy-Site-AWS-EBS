@@ -50,18 +50,13 @@ npm -v # Should print "".
 ![Texto ](imgs/3.12.png)
 
 
-Url temporaria para abrir no PC : http://calculadora-env-dev.eba-kp5bimrm.sa-east-1.elasticbeanstalk.com/
-
-![Texto ](imgs/leituratemporaria.jpg)
-
-
 ## Next backend steps:
 - If you update something in git, it will automatically update through the codepipeline.
 
 ![Texto ](imgs/11.1.2.png)
 ![Texto ](imgs/11.1.3.png)
 ![Texto ](imgs/11.1.4.png)
-![Texto ](imgs/11.1.5.png)
+![Texto ](imgs/url.png)
 
 
 - You can insert test phases in the middle, which avoids incorrect deployment, through buildspec.xml
