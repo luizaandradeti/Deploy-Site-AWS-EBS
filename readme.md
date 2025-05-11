@@ -28,7 +28,7 @@ npm -v # Should print "".
 ````
 
 ![Texto ](imgs/0.0.0.png)
-![Texto ](imgs/0.0.1png.png)
+![Texto ](imgs/0.0.1png)
 ![Texto ](imgs/0.0.2.png)
 ![Texto ](imgs/0.0.3.png)
 ![Texto ](imgs/0.0.4.png)
