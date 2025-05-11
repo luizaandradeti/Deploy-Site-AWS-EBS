@@ -57,5 +57,7 @@ npm -v # Should print "".
 
 Url para abrir no PC temporpario: http://calculadora-env-dev.eba-kp5bimrm.sa-east-1.elasticbeanstalk.com/
 
+![Texto ](imgs/leituratemporaria.jpg)
+
 <h3 align="left">Support:</h3>
 <p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Luiza" /></a></p><br><br>
