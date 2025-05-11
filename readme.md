@@ -50,12 +50,7 @@ npm -v # Should print "".
 ![Texto ](imgs/3.12.png)
 
 
-##  Read more:
-- https://docs.aws.amazon.com/pt_br/elasticbeanstalk/latest/dg/create_deploy_nodejs.html
-- https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/iam-instanceprofile.html
-- [https://aws.amazon.com/pt/codepipeline/](https://aws.amazon.com/codepipeline/?nc1=h_ls)
-
-Url para abrir no PC temporpario: http://calculadora-env-dev.eba-kp5bimrm.sa-east-1.elasticbeanstalk.com/
+Url temporaria para abrir no PC : http://calculadora-env-dev.eba-kp5bimrm.sa-east-1.elasticbeanstalk.com/
 
 ![Texto ](imgs/leituratemporaria.jpg)
 
@@ -93,11 +88,11 @@ phases:
         commands:
             - echo "we are in the post build phase"
 ````
-![Texto ](imgs/11.png)
-![Texto ](imgs/11.1.png)
-![Texto ](imgs/11.2.png)
-![Texto ](imgs/11.3.png)
 
 - You can create three envs and orchestrate through aws organizations
+
+![Texto ](imgs/12.png)
+![Texto ](imgs/13.png)
+- 
 <h3 align="left">Support:</h3>
 <p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Luiza" /></a></p><br><br>
