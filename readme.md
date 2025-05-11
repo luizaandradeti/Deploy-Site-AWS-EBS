@@ -63,10 +63,10 @@ Url para abrir no PC temporpario: http://calculadora-env-dev.eba-kp5bimrm.sa-eas
 ## Next backend steps:
 - If you update something in git, it will automatically update through the codepipeline.
 
-![Texto ](imgs/11.2.png)
-![Texto ](imgs/11.3.png)
-![Texto ](imgs/11.4.png)
-![Texto ](imgs/11.5.png)
+![Texto ](imgs/11.1.2.png)
+![Texto ](imgs/11.1.3.png)
+![Texto ](imgs/11.1.4.png)
+
 
 - You can insert test phases in the middle, which avoids incorrect deployment, through buildspec.xml
 
