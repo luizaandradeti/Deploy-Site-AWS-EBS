@@ -58,6 +58,9 @@ npm -v # Should print "".
 ![Texto ](imgs/11.1.4.png)
 ![Texto ](imgs/url.png)
 
+* I deactivated the app on May 11, 2025 at 6:00 PM (approximately)
+
+  [![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
 
 - You can insert test phases in the middle, which avoids incorrect deployment, through buildspec.xml
 
