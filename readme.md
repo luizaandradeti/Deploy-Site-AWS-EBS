@@ -65,7 +65,7 @@ Url para abrir no PC temporpario: http://calculadora-env-dev.eba-kp5bimrm.sa-eas
 
 ![Texto ](imgs/11.1.2.png)
 ![Texto ](imgs/11.1.3.png)
-![Texto ](imgs/11.1.8.png)
+![Texto ](imgs/11.1.5.png)
 
 
 - You can insert test phases in the middle, which avoids incorrect deployment, through buildspec.xml
