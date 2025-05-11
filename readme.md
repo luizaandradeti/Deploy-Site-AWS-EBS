@@ -55,9 +55,11 @@ npm -v # Should print "".
 - https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/iam-instanceprofile.html
 - [https://aws.amazon.com/pt/codepipeline/](https://aws.amazon.com/codepipeline/?nc1=h_ls)
 
-Url para abrir no PC temporpario: http://calculadora-env-dev.eba-kp5bimrm.sa-east-1.elasticbeanstalk.com/
+Url para abrir no PC temporária (testes iniciais): http://calculadora-env-dev.eba-kp5bimrm.sa-east-1.elasticbeanstalk.com/
 
 ![Texto ](imgs/leituratemporaria.jpg)
+
+[![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
 
 <h3 align="left">Support:</h3>
 <p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Luiza" /></a></p><br><br>
