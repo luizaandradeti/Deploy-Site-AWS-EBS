@@ -85,7 +85,12 @@ phases:
     post_build:
         commands:
             - echo "we are in the post build phase"
-````            
+````
+![Texto ](imgs/11.png)
+![Texto ](imgs/11.1.png)
+![Texto ](imgs/11.2.png)
+![Texto ](imgs/11.3.png)
+
 - You can create three envs and orchestrate through aws organizations
 <h3 align="left">Support:</h3>
 <p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Luiza" /></a></p><br><br>
