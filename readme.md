@@ -1,7 +1,6 @@
 
 ## Tech stack
 
-
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
