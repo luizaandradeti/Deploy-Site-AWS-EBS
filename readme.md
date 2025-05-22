@@ -1,5 +1,5 @@
 
-## Tech stack
+## Tech stack 
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -85,7 +85,6 @@ phases:
         commands:
             - echo "we are in the post build phase"
 ````
-
 - You can create three envs and orchestrate through aws organizations
 
 ![Texto ](imgs/12.png)
