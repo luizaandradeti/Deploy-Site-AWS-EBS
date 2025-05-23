@@ -66,7 +66,6 @@ npm -v # Should print "".
 
 ````yml
 version: 0.2
-
 phases: 
     install:
         runtime-versions:
